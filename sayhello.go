@@ -1,5 +1,5 @@
 package go_modules_dicky
 
 func SayHello() string {
-	return "Hello Dicky"
+	return "Hello Dicky Jmabrong"
 }
